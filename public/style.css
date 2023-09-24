@@ -1,0 +1,72 @@
+h1 {
+    font-size: 43px;
+    text-align: center;
+    margin: 0;
+    padding-top: 25px;
+}
+
+body {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+#questions {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.selected {
+    background-color: #4CAF50;
+}
+
+#results {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+}
+
+#check-button {
+    display: block;
+    margin: 0 auto;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#check-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}

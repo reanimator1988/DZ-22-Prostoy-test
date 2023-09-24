@@ -1,5 +1,5 @@
 {
-    "name": "dz-24-zrobit-chat",
+    "name": "dz-22-prostoy-test",
     "version": "1.0.0",
     "description": "My awesome chat project",
     "main": "index.js",
@@ -11,12 +11,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/reanimator1988/dz-24-zrobit-chat.git"
+        "url": "git+https://github.com/reanimator1988/DZ-22-Prostoy-test.git"
     },
     "bugs": {
-        "url": "https://github.com/reanimator1988/dz-24-zrobit-chat/issues"
+        "url": "https://github.com/reanimator1988/DZ-22-Prostoy-test/issues"
     },
-    "homepage": "https://github.com/reanimator1988/dz-24-zrobit-chat#readme",
+    "homepage": "https://github.com/reanimator1988/DZ-22-Prostoy-test#readme",
     "dependencies": {
         "@fastify/cors": "^8.3.0",
         "@fastify/multipart": "^7.7.3",

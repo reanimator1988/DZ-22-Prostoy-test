@@ -1,18 +1,18 @@
 export const questions = [
     {
-      caption: 'Подія натискання на елемент називається click?',
+      caption: '1) Подія натискання на елемент називається click?',
       correctAnswer: true,
     },
     {
-      caption: 'Усередині розмітки не можна додати обробник події?',
+      caption: '2) Усередині розмітки не можна додати обробник події?',
       correctAnswer: false,
     },
     {
-      caption: 'Припинити спливання події можна за допомогою метода stopImmediatePropagation?',
+      caption: '3) Припинити спливання події можна за допомогою метода stopImmediatePropagation?',
       correctAnswer: false,
     },
     {
-      caption: 'Припинити спливання події можна за допомогою метода stopPropagation?',
+      caption: '4) Припинити спливання події можна за допомогою метода stopPropagation?',
       correctAnswer: true,
     },
   ];
